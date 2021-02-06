@@ -8,7 +8,7 @@
 
 ### Receptor que ira vincular com o console de gerenciamento para a execução de aplicações JAVA
 
-Desenvolvidor com <a href="https://spring.io" target="_blank">Spring</a>, responsavel por aguardar a chamada via HTTP do console para a execução de um cronograma, sendo assim, executando a aplicação JAVA vinculada e retornando o resultado.
+Desenvolvido com <a href="https://spring.io" target="_blank">Spring</a>, responsavel por aguardar a chamada via HTTP do console para a execução de um cronograma, sendo assim, executando a aplicação JAVA vinculada e retornando o resultado.
 
 O receptor depende do console (<a href="https://github.com/SikLabTech/repita-portal-console">click aqui para acessar o repositório</a>).
 
