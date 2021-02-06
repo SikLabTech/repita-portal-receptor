@@ -14,7 +14,7 @@ O receptor depende do console (<a href="https://github.com/SikLabTech/repita-por
 
 ## Execução
 
-Apenas o execute e garanta que a porta 38888 ou a que foi configurada no receptor estaja liberada para que o console possa conectar.
+Apenas o execute e garanta que a porta 38888 ou a que foi configurada no receptor esteja liberada para que o console possa conectar.
 
 ## Produção
 
